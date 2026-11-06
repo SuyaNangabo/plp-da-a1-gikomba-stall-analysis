@@ -11,7 +11,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market and has spent two weeks rec
 Open the notebook in Google Colab: [![Open In Colab]
 
 # My top findings
-1. Her business is a weekend business.
+**1. Her business is a weekend business.**
 Weekends average KES 4,900 a day against KES 2,685 on weekdays, which is 82.5% more. Saturdays alone (2 of 14 days) bring in KES 10,800, or 23% of all sales. This is the most important finding because it tells her where stock, time and energy should go. A stockout on a Saturday costs far more than one on a Tuesday.
 
 **2. The growth is real, not a lucky spike.**
